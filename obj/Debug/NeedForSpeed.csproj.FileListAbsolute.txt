@@ -1,0 +1,6 @@
+D:\Visual Studio\NFS\bin\Debug\NeedForSpeed.exe.config
+D:\Visual Studio\NFS\bin\Debug\NeedForSpeed.exe
+D:\Visual Studio\NFS\bin\Debug\NeedForSpeed.pdb
+D:\Visual Studio\NFS\obj\Debug\NeedForSpeed.csprojResolveAssemblyReference.cache
+D:\Visual Studio\NFS\obj\Debug\NeedForSpeed.exe
+D:\Visual Studio\NFS\obj\Debug\NeedForSpeed.pdb
